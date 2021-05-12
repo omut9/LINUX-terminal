@@ -1,1 +1,1 @@
-# LINUX-terminal
+# LINUX-terminal tasks, hw, info, etc.
