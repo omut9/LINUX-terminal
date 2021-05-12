@@ -1,0 +1,11 @@
+#!/bin/bash
+# This is a comment
+cd /d/test/t2/
+mkdir fol1 fol2 fol3
+cd fol1
+touch 77.txt 78.txt 79.txt 55.json 56.json
+mkdir fol11
+ls -l
+mv 77.txt 55.json /d/test/t2/fol1/fol11/
+ls -l
+
